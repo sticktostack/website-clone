@@ -1,2 +1,2 @@
 # website-clone
-clone using html css javascript and gsap library
+clone using html css javascript & gsap library
